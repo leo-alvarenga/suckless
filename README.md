@@ -1,3 +1,3 @@
 # suckless
 
-My patched versions of the [suckless](suckless.org) utilities I use
+My patched versions of the [suckless](https://suckless.org) utilities I use
